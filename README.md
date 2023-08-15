@@ -1,10 +1,9 @@
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Syrym Kosymbayev
 
-*   👀  I strive to develop in the field of web development and UX/UI design. Having knowledge and experience in various programming languages, Git and technologies, I am constantly improving my skills and efficiency. I have experience in development, design, project management and volunteering, I was awarded the medal "Halyk Algysy"
-*   🧠  Currently learning Vue.js
+*   👀  Portfolio https://kosymbayev.notion.site/ff39b1f55be14ca78ba2c35102d00208?v=919e78c69afa47c5bdc44d3532ce6b1e&pvs=4
 *   📫 s.kosymbayev@gmail.com
-*   🌍  Almaty - Atyrau, Kazakhstan
+*   🌍  Almaty, Kazakhstan
 
 ### Skills
 
